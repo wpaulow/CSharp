@@ -1,0 +1,14 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\questaoBubbleSortResolvida\questaoBubbleSortResolvida\bin\Debug\questaoBubbleSortResolvida.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\questaoBubbleSortResolvida\questaoBubbleSortResolvida\bin\Debug\questaoBubbleSortResolvida.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\questaoBubbleSortResolvida\questaoBubbleSortResolvida\obj\Debug\questaoBubbleSortResolvida.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\questaoBubbleSortResolvida\questaoBubbleSortResolvida\obj\Debug\questaoBubbleSortResolvida.MainForm.resources
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\questaoBubbleSortResolvida\questaoBubbleSortResolvida\obj\Debug\questaoBubbleSortResolvida.csproj.GenerateResource.Cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\questaoBubbleSortResolvida\questaoBubbleSortResolvida\obj\Debug\questaoBubbleSortResolvida.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\questaoBubbleSortResolvida\questaoBubbleSortResolvida\obj\Debug\questaoBubbleSortResolvida.pdb
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\questaoBubbleSortResolvida\questaoBubbleSortResolvida\bin\Debug\questaoBubbleSortResolvida.exe
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\questaoBubbleSortResolvida\questaoBubbleSortResolvida\bin\Debug\questaoBubbleSortResolvida.pdb
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\questaoBubbleSortResolvida\questaoBubbleSortResolvida\obj\Debug\questaoBubbleSortResolvida.csprojResolveAssemblyReference.cache
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\questaoBubbleSortResolvida\questaoBubbleSortResolvida\obj\Debug\questaoBubbleSortResolvida.MainForm.resources
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\questaoBubbleSortResolvida\questaoBubbleSortResolvida\obj\Debug\questaoBubbleSortResolvida.csproj.GenerateResource.Cache
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\questaoBubbleSortResolvida\questaoBubbleSortResolvida\obj\Debug\questaoBubbleSortResolvida.exe
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\questaoBubbleSortResolvida\questaoBubbleSortResolvida\obj\Debug\questaoBubbleSortResolvida.pdb

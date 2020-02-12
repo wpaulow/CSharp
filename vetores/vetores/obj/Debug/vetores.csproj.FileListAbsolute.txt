@@ -1,0 +1,14 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores\vetores\obj\Debug\vetores.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores\vetores\obj\Debug\vetores.MainForm.resources
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores\vetores\obj\Debug\vetores.csproj.GenerateResource.Cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores\vetores\bin\Debug\vetores.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores\vetores\bin\Debug\vetores.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores\vetores\obj\Debug\vetores.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores\vetores\obj\Debug\vetores.pdb
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\vetores\vetores\bin\Debug\vetores.exe
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\vetores\vetores\bin\Debug\vetores.pdb
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\vetores\vetores\obj\Debug\vetores.csprojResolveAssemblyReference.cache
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\vetores\vetores\obj\Debug\vetores.MainForm.resources
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\vetores\vetores\obj\Debug\vetores.csproj.GenerateResource.Cache
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\vetores\vetores\obj\Debug\vetores.exe
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\vetores\vetores\obj\Debug\vetores.pdb

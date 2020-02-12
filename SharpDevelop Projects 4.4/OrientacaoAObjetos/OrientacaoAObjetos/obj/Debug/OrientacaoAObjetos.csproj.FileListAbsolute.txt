@@ -1,0 +1,8 @@
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.exe
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.pdb
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.csprojResolveAssemblyReference.cache
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.MainForm.resources
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.csproj.GenerateResource.Cache
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.exe
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.pdb
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.Form1.resources

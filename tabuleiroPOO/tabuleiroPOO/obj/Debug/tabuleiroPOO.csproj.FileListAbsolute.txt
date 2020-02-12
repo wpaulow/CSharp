@@ -1,0 +1,70 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.MainForm.resources
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.GenerateResource.Cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.Form1.resources
+E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csprojResolveAssemblyReference.cache
+E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.Form1.resources
+E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.MainForm.resources
+E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.GenerateResource.Cache
+E:\ETEC\DS1\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.exe
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csprojResolveAssemblyReference.cache
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.Form1.resources
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.MainForm.resources
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.GenerateResource.Cache
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.exe
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.exe
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.pdb
+E:\ETEC\DSN\2 Modulo\csharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.pdb
+C:\Users\aluno.etec\Documents\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.exe
+C:\Users\aluno.etec\Documents\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.pdb
+C:\Users\aluno.etec\Documents\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csprojAssemblyReference.cache
+C:\Users\aluno.etec\Documents\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.Form1.resources
+C:\Users\aluno.etec\Documents\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.MainForm.resources
+C:\Users\aluno.etec\Documents\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.GenerateResource.cache
+C:\Users\aluno.etec\Documents\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.CoreCompileInputs.cache
+C:\Users\aluno.etec\Documents\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.exe
+C:\Users\aluno.etec\Documents\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.pdb
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.exe
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.pdb
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csprojResolveAssemblyReference.cache
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.Form1.resources
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.MainForm.resources
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.GenerateResource.Cache
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.exe
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.pdb
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.exe
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.pdb
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csprojResolveAssemblyReference.cache
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.Form1.resources
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.MainForm.resources
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.GenerateResource.Cache
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.exe
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.pdb
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.exe
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.pdb
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csprojResolveAssemblyReference.cache
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.Form1.resources
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.MainForm.resources
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.GenerateResource.Cache
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.exe
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.pdb
+C:\Users\wpw33\OneDrive\Documentos\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.exe
+C:\Users\wpw33\OneDrive\Documentos\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.pdb
+C:\Users\wpw33\OneDrive\Documentos\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csprojResolveAssemblyReference.cache
+C:\Users\wpw33\OneDrive\Documentos\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.Form1.resources
+C:\Users\wpw33\OneDrive\Documentos\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.MainForm.resources
+C:\Users\wpw33\OneDrive\Documentos\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.GenerateResource.Cache
+C:\Users\wpw33\OneDrive\Documentos\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.exe
+C:\Users\wpw33\OneDrive\Documentos\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.pdb
+E:\Backup\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.exe
+E:\Backup\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\bin\Debug\tabuleiroPOO.pdb
+E:\Backup\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csprojResolveAssemblyReference.cache
+E:\Backup\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.Form1.resources
+E:\Backup\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.MainForm.resources
+E:\Backup\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.csproj.GenerateResource.Cache
+E:\Backup\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.exe
+E:\Backup\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tabuleiroPOO\tabuleiroPOO\obj\Debug\tabuleiroPOO.pdb

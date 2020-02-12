@@ -1,0 +1,3 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\questaoBubbleSort\questaoBubbleSort\obj\Debug\questaoBubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\questaoBubbleSort\questaoBubbleSort\obj\Debug\questaoBubbleSort.MainForm.resources
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\questaoBubbleSort\questaoBubbleSort\obj\Debug\questaoBubbleSort.csproj.GenerateResource.Cache

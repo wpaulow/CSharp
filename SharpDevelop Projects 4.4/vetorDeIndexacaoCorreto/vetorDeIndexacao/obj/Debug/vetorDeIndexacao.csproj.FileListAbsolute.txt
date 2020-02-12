@@ -1,0 +1,21 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetorDeIndexacao\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetorDeIndexacao\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.MainForm.resources
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetorDeIndexacao\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.csproj.GenerateResource.Cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetorDeIndexacao\vetorDeIndexacao\bin\Debug\vetorDeIndexacao.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetorDeIndexacao\vetorDeIndexacao\bin\Debug\vetorDeIndexacao.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetorDeIndexacao\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetorDeIndexacao\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.pdb
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacao\vetorDeIndexacao\bin\Debug\vetorDeIndexacao.exe
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacao\vetorDeIndexacao\bin\Debug\vetorDeIndexacao.pdb
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacao\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.csprojResolveAssemblyReference.cache
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacao\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.MainForm.resources
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacao\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.csproj.GenerateResource.Cache
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacao\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.exe
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacao\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.pdb
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacaoCorreto\vetorDeIndexacao\bin\Debug\vetorDeIndexacao.exe
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacaoCorreto\vetorDeIndexacao\bin\Debug\vetorDeIndexacao.pdb
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacaoCorreto\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.csprojResolveAssemblyReference.cache
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacaoCorreto\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.MainForm.resources
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacaoCorreto\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.csproj.GenerateResource.Cache
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacaoCorreto\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.exe
+C:\Users\wesley\Documents\2oModuloDSN\Desenvolvimento de Sistemas_CSharp\SharpDevelop Projects 4.4\vetorDeIndexacaoCorreto\vetorDeIndexacao\obj\Debug\vetorDeIndexacao.pdb

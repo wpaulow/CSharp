@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\SharpDevelop Projects\LeninMovimento\LeninMovimento\obj\Debug\LeninMovimento.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\SharpDevelop Projects\LeninMovimento\LeninMovimento\obj\Debug\LeninMovimento.MainForm.resources
+C:\Users\PC\Documents\SharpDevelop Projects\LeninMovimento\LeninMovimento\obj\Debug\LeninMovimento.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\SharpDevelop Projects\LeninMovimento\LeninMovimento\bin\Debug\LeninMovimento.exe.config
+C:\Users\PC\Documents\SharpDevelop Projects\LeninMovimento\LeninMovimento\bin\Debug\LeninMovimento.exe
+C:\Users\PC\Documents\SharpDevelop Projects\LeninMovimento\LeninMovimento\bin\Debug\LeninMovimento.pdb
+C:\Users\PC\Documents\SharpDevelop Projects\LeninMovimento\LeninMovimento\obj\Debug\LeninMovimento.exe
+C:\Users\PC\Documents\SharpDevelop Projects\LeninMovimento\LeninMovimento\obj\Debug\LeninMovimento.pdb
+C:\Users\PC\Desktop\Backup\ETEC\SharpDevelop Projects\LeninMovimento\LeninMovimento\bin\Debug\LeninMovimento.exe.config
+C:\Users\PC\Desktop\Backup\ETEC\SharpDevelop Projects\LeninMovimento\LeninMovimento\bin\Debug\LeninMovimento.exe
+C:\Users\PC\Desktop\Backup\ETEC\SharpDevelop Projects\LeninMovimento\LeninMovimento\bin\Debug\LeninMovimento.pdb
+C:\Users\PC\Desktop\Backup\ETEC\SharpDevelop Projects\LeninMovimento\LeninMovimento\obj\Debug\LeninMovimento.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Backup\ETEC\SharpDevelop Projects\LeninMovimento\LeninMovimento\obj\Debug\LeninMovimento.MainForm.resources
+C:\Users\PC\Desktop\Backup\ETEC\SharpDevelop Projects\LeninMovimento\LeninMovimento\obj\Debug\LeninMovimento.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Backup\ETEC\SharpDevelop Projects\LeninMovimento\LeninMovimento\obj\Debug\LeninMovimento.exe
+C:\Users\PC\Desktop\Backup\ETEC\SharpDevelop Projects\LeninMovimento\LeninMovimento\obj\Debug\LeninMovimento.pdb

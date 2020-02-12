@@ -1,0 +1,6 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\IntercalarString\IntercalarString\obj\Debug\IntercalarString.csprojResolveAssemblyReference.cache
+F:\Pasta de Trabalho\ETEC\Programação e Algoritmos\ProgAlg_Chicao\IntercalarString\IntercalarString\obj\Debug\IntercalarString.csprojResolveAssemblyReference.cache
+F:\Pasta de Trabalho\ETEC\Programação e Algoritmos\ProgAlg_Chicao\IntercalarString\IntercalarString\bin\Debug\IntercalarString.exe
+F:\Pasta de Trabalho\ETEC\Programação e Algoritmos\ProgAlg_Chicao\IntercalarString\IntercalarString\bin\Debug\IntercalarString.pdb
+F:\Pasta de Trabalho\ETEC\Programação e Algoritmos\ProgAlg_Chicao\IntercalarString\IntercalarString\obj\Debug\IntercalarString.exe
+F:\Pasta de Trabalho\ETEC\Programação e Algoritmos\ProgAlg_Chicao\IntercalarString\IntercalarString\obj\Debug\IntercalarString.pdb

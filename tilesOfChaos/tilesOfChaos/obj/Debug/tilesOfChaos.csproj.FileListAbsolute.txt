@@ -1,0 +1,16 @@
+D:\C#\tilesOfChaos\tilesOfChaos\bin\Debug\tilesOfChaos.exe
+D:\C#\tilesOfChaos\tilesOfChaos\bin\Debug\tilesOfChaos.pdb
+D:\C#\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.csprojAssemblyReference.cache
+D:\C#\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.Form1.resources
+D:\C#\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.Properties.Resources.resources
+D:\C#\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.csproj.GenerateResource.cache
+D:\C#\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.csproj.CoreCompileInputs.cache
+D:\C#\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.exe
+D:\C#\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.pdb
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.csprojAssemblyReference.cache
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.Form1.resources
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.Properties.Resources.resources
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.csproj.GenerateResource.cache
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.csproj.CoreCompileInputs.cache
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.exe
+C:\Users\wpw33\OneDrive\Área de Trabalho\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\tilesOfChaos\tilesOfChaos\obj\Debug\tilesOfChaos.pdb

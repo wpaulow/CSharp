@@ -1,0 +1,14 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores2\vetores2\bin\Debug\vetores2.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores2\vetores2\bin\Debug\vetores2.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores2\vetores2\obj\Debug\vetores2.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores2\vetores2\obj\Debug\vetores2.MainForm.resources
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores2\vetores2\obj\Debug\vetores2.csproj.GenerateResource.Cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores2\vetores2\obj\Debug\vetores2.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\vetores2\vetores2\obj\Debug\vetores2.pdb
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetores2\vetores2\bin\Debug\vetores2.exe
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetores2\vetores2\bin\Debug\vetores2.pdb
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetores2\vetores2\obj\Debug\vetores2.csprojResolveAssemblyReference.cache
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetores2\vetores2\obj\Debug\vetores2.MainForm.resources
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetores2\vetores2\obj\Debug\vetores2.csproj.GenerateResource.Cache
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetores2\vetores2\obj\Debug\vetores2.exe
+E:\Pasta de Trabalho\ETEC\2_Modulo\DesenvolvimentoDeSistemas_CSharp\SharpDevelop Projects 4.4\vetores2\vetores2\obj\Debug\vetores2.pdb

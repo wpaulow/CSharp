@@ -1,0 +1,7 @@
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\bubbleSort\bubbleSort\obj\Debug\bubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\bubbleSort\bubbleSort\obj\Debug\bubbleSort.MainForm.resources
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\bubbleSort\bubbleSort\obj\Debug\bubbleSort.csproj.GenerateResource.Cache
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\bubbleSort\bubbleSort\bin\Debug\bubbleSort.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\bubbleSort\bubbleSort\bin\Debug\bubbleSort.pdb
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\bubbleSort\bubbleSort\obj\Debug\bubbleSort.exe
+C:\Users\aluno.etec\Documents\SharpDevelop Projects\bubbleSort\bubbleSort\obj\Debug\bubbleSort.pdb
